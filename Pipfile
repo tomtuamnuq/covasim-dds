@@ -8,7 +8,6 @@ covasim = "*"
 scipy = "*"
 salib = "*"
 seaborn = "*"
-pyabc = "*"
 
 [dev-packages]
 ipykernel = "*"
