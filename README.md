@@ -55,8 +55,8 @@ The department of computer science at the university of Rostock has a great cour
 During the course the students had to achieve milestones. The tasks for the milestones are given in `Project_Tasks.pdf`.
 Mentors:
  <li> 
- Prof. Dr. rer. nat. habil Adelinde M. Uhrmacher  adelinde.uhrmacher(at)informatik.uni-rostock.de
+ Prof. Dr. rer. nat. habil Adelinde M. Uhrmacher <href> adelinde.uhrmacher@informatik.uni-rostock.de
  </li>
  <li>
- M.Sc. Pia Wilsdorf pia.wilsdorf(at).uni-rostock.de
+ M.Sc. Pia Wilsdorf <href>pia.wilsdorf@.uni-rostock.de
  </li>
