@@ -5,7 +5,7 @@ The COVID-19 pandemic has created an urgent need for models that can project epi
 In this Student project our focus was on the Germany population with the SIR model and we used Covasim as a stochastic agent-based simulator for performing COVID-19 analyses.
  Our Global sensitivity analysis method:
  
-<img src="https://github.com/AzadehKSH/covasim-dds/blob/main/Image/method.PNG">
+<img src="Image/method.PNG">
  
  Our calibration method:
  <li>
@@ -54,7 +54,9 @@ Calibration of the Covasim model to data from Germany
  <h2> Rostock University</h2>
 The department of computer science at the university of Rostock has a great course about data driven simulation.
 During the course the students had to achieve milestones. The tasks for the milestones are given in `Project_Tasks.pdf`.
+ 
 Mentors:
+ 
  <li> 
  Prof. Dr. rer. nat. habil Adelinde M. Uhrmacher <href> adelinde.uhrmacher@informatik.uni-rostock.de
  </li>
