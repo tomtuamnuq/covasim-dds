@@ -45,7 +45,7 @@ Calibration of the Covasim model to data from Germany
  </li>
   
   
-  <h2> Refrences</h2>
+  <h2> References</h2>
  
   Covasim: <href>http://paper.covasim.org
   
@@ -59,6 +59,6 @@ Mentors:
  Prof. Dr. rer. nat. habil Adelinde M. Uhrmacher <href> adelinde.uhrmacher@informatik.uni-rostock.de
  </li>
  <li>
- M.Sc. Pia Wilsdorf <href>pia.wilsdorf@.uni-rostock.de
+ M.Sc. Pia Wilsdorf <href>pia.wilsdorf@uni-rostock.de
  </li>
  </dt>
