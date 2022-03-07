@@ -4,7 +4,7 @@
 In this Student project our focus was on the Germany population with the SIR model and we used Covasim as a stochastic agent-based simulator for performing COVID-19 analyses.
  Our Global sensitivity analysis method:
  
-<img src="https://github.com/AzadehKSH/Covasim-Project/blob/main/callibration%20method.PNG">
+<img src="https://github.com/AzadehKSH/covasim-dds/tree/main/Image">
  
  Our calibration method:
  <li>
