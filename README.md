@@ -50,7 +50,7 @@ Calibration of the Covasim model to data from Germany
   
    Controlling COVID-19 via test-trace-quarantine: <href> https://doi.org/10.1101/2020.07.15.20154765
   
- <h2> Rostock University<\h2>
+ <h2> Rostock University</h2>
 The department of computer science at the university of Rostock has a great course about data driven simulation.
 During the course the students had to achieve milestones. The tasks for the milestones are given in `Project_Tasks.pdf`.
 Mentors:
